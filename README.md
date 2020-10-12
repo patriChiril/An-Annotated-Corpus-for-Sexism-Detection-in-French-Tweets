@@ -2,7 +2,7 @@
 This repository contains the first French corpus annotated for sexism detection composed of about 12,000 tweets (see [corpus_SexistContent.csv](https://github.com/patriChiril/An-Annotated-Corpus-for-Sexism-Detection-in-French-Tweets/blob/master/corpus_SexistContent.csv)) according to a novel characterization of sexist content-force relation inspired by speech acts theory and discourse studies in gender. We distinguish different types of sexist content depending on the impact
 on the addressee: **sexist hate speech directly addressed to a target**, **sexist descriptive assertions** not addressed to the target, or **reported assertions** that relate a story of sexism experienced by a woman.
 
-Sexism is often expressed by using gender stereotypes. In order to force the classifier to learn from generalized concept rather than words which may be rare in the corpus, we adopt several replacement combinations consisting in replacing some words/expressions that trigger sexist content by their generalized term ([stereotype_list.txt](https://github.com/patriChiril/An-Annotated-Corpus-for-Sexism-Detection-in-French-Tweets/blob/master/stereotype_list.txt) contains a manually built lists of words often used in sexist language).
+Sexism is often expressed by using gender stereotypes. In order to force the classifier to learn from generalized concepts rather than words which may be rare in the corpus, we adopt several replacement combinations consisting in replacing some words/expressions that trigger sexist content by their generalized term ([stereotype_list.txt](https://github.com/patriChiril/An-Annotated-Corpus-for-Sexism-Detection-in-French-Tweets/blob/master/stereotype_list.txt) contains a manually built lists of words often used in sexist language).
 
 
 
