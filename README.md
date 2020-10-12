@@ -1,5 +1,5 @@
 # An Annotated Corpus for Sexism Detection in French Tweets
-This repository contains the first French corpus annotated for sexism detection (see [corpus_SexistContent.csv](https://github.com/patriChiril/An-Annotated-Corpus-for-Sexism-Detection-in-French-Tweets/blob/master/corpus_SexistContent.csv)).
+This repository contains the first French corpus annotated for sexism detection (see [corpus_SexistContent.csv](https://github.com/patriChiril/An-Annotated-Corpus-for-Sexism-Detection-in-French-Tweets/blob/master/corpus_SexistContent.csv)) composed of about 12,000 tweets.
 
 Sexism is often expressed by using gender stereotypes. In order to force the classifier to learn from generalized concepts rather than words which may be rare in the corpus, in [He said “who’s gonna take care of your children when you are at ACL?”: Reported Sexist Acts are Not Sexist](https://www.aclweb.org/anthology/2020.acl-main.373/) we adopt several replacement combinations consisting in replacing some words/expressions that trigger sexist content by their generalized term ([stereotype_list.txt](https://github.com/patriChiril/An-Annotated-Corpus-for-Sexism-Detection-in-French-Tweets/blob/master/stereotype_list.txt) contains a manually built lists of words often used in sexist language).
 
