@@ -1,5 +1,5 @@
 # An Annotated Corpus for Sexism Detection in French Tweets
-This repository contains the first French corpus annotated for sexism detection (see [corpus_SexistContent.csv](https://github.com/patriChiril/An-Annotated-Corpus-for-Sexism-Detection-in-French-Tweets/blob/master/corpus_SexistContent.csv)) composed of about 12,000 tweets.
+This repository contains the first French corpus annotated for sexism detection (see [corpus_SexistContent.csv](https://github.com/patriChiril/An-Annotated-Corpus-for-Sexism-Detection-in-French-Tweets/blob/master/corpus_SexistContent.csv)) composed of about 12,000 tweets. [nonAnnotated.csv](https://github.com/patriChiril/An-Annotated-Corpus-for-Sexism-Detection-in-French-Tweets/blob/master/nonAnnotated.csv) contains all the collected data (the sexism corpus is a subset of it).
 
 A tweet is annotated as **sexist** in one of the following three cases:
 * the tweet contains **sexist content directly addressed to a woman or a group of women**:
